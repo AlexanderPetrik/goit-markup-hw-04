@@ -94,22 +94,17 @@ body {
 .ptimary-btn {
     display: block;
     margin: 0 auto;
-
     padding: 14px 31px;
-
     color: var(--white-cl);
     background-color: var(--primary-cl);
-
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-
     border: none;
 }
 
 .alternative-btn {
     color: var(--primary-cl);
     background-color: var(--light-cl);
-
     padding: 12px 24px;
 
     border: 1px solid #E7E9FC;
